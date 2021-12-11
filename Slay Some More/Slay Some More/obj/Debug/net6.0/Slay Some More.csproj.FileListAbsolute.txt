@@ -1,0 +1,16 @@
+C:\Users\warph\OneDrive\Belgeler\Visual Studio Codes\Slay Some More\Slay Some More\bin\Debug\net6.0\Slay Some More.exe
+C:\Users\warph\OneDrive\Belgeler\Visual Studio Codes\Slay Some More\Slay Some More\bin\Debug\net6.0\Slay Some More.deps.json
+C:\Users\warph\OneDrive\Belgeler\Visual Studio Codes\Slay Some More\Slay Some More\bin\Debug\net6.0\Slay Some More.runtimeconfig.json
+C:\Users\warph\OneDrive\Belgeler\Visual Studio Codes\Slay Some More\Slay Some More\bin\Debug\net6.0\Slay Some More.dll
+C:\Users\warph\OneDrive\Belgeler\Visual Studio Codes\Slay Some More\Slay Some More\bin\Debug\net6.0\ref\Slay Some More.dll
+C:\Users\warph\OneDrive\Belgeler\Visual Studio Codes\Slay Some More\Slay Some More\bin\Debug\net6.0\Slay Some More.pdb
+C:\Users\warph\OneDrive\Belgeler\Visual Studio Codes\Slay Some More\Slay Some More\obj\Debug\net6.0\Slay Some More.GlobalUsings.g.cs
+C:\Users\warph\OneDrive\Belgeler\Visual Studio Codes\Slay Some More\Slay Some More\obj\Debug\net6.0\Slay Some More.csproj.AssemblyReference.cache
+C:\Users\warph\OneDrive\Belgeler\Visual Studio Codes\Slay Some More\Slay Some More\obj\Debug\net6.0\Slay Some More.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warph\OneDrive\Belgeler\Visual Studio Codes\Slay Some More\Slay Some More\obj\Debug\net6.0\Slay Some More.AssemblyInfoInputs.cache
+C:\Users\warph\OneDrive\Belgeler\Visual Studio Codes\Slay Some More\Slay Some More\obj\Debug\net6.0\Slay Some More.AssemblyInfo.cs
+C:\Users\warph\OneDrive\Belgeler\Visual Studio Codes\Slay Some More\Slay Some More\obj\Debug\net6.0\Slay Some More.csproj.CoreCompileInputs.cache
+C:\Users\warph\OneDrive\Belgeler\Visual Studio Codes\Slay Some More\Slay Some More\obj\Debug\net6.0\Slay Some More.dll
+C:\Users\warph\OneDrive\Belgeler\Visual Studio Codes\Slay Some More\Slay Some More\obj\Debug\net6.0\ref\Slay Some More.dll
+C:\Users\warph\OneDrive\Belgeler\Visual Studio Codes\Slay Some More\Slay Some More\obj\Debug\net6.0\Slay Some More.pdb
+C:\Users\warph\OneDrive\Belgeler\Visual Studio Codes\Slay Some More\Slay Some More\obj\Debug\net6.0\Slay Some More.genruntimeconfig.cache
